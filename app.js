@@ -2,12 +2,10 @@ var express = require('express');
 var app = express();
 var fs = require('fs');
 
-var result = {}
+app.get('/api/cuesheets/v2', function (req, res) {
+  console.log('call WEBUI API quesheets...! 큐시트 변경 확인 API Call...')
 
-app.get('/api/quesheets/v2', function (req, res) {
-  console.log('call WEBUI API quesheets...!')
-
-  fs.readFile('quesheet.json', 'utf-8', function(err, data) {
+  fs.readFile('cuesheet_v2.json', 'utf-8', function(err, data) {
     if(err){
         res.end('500 Internal Server Error : '+err);
       }else{
@@ -16,10 +14,10 @@ app.get('/api/quesheets/v2', function (req, res) {
   })
 });
 
-app.get('/api/quesheets/v3', function (req, res) {
-  console.log('call dynamodb quesheets...!')
+app.get('/api/cuesheets/dynamodb', function (req, res) {
+  console.log('call dynamodb quesheets...! 이전 큐시트 요청...')
 
-  fs.readFile('quesheet2.json', 'utf-8', function(err, data) {
+  fs.readFile('cuesheet_dynamodb.json', 'utf-8', function(err, data) {
     if(err){
         res.end('500 Internal Server Error : '+err);
       }else{
