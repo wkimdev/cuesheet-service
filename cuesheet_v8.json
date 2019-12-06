@@ -1,0 +1,571 @@
+// cuesheet_v8.json
+
+{
+    "notify": "test_cuesheet_v8",
+    "item": {
+      "type": "wscuesheet_v8",
+      "data": {
+        "totCnt": "1",
+        "contentsAlbumId": "M01193P920PPV00",
+        "angleSvcFlag": "Y",
+        "memberSvcFlag": "Y",
+        "channelImageUrl": "http://203.248.154.13/image/cuesheet/2019/03/C201903007_L_205557.png",
+        "mainLogoUrl": null,
+        "camLogoUrl": null,
+        "onAirStartDate": "201903070000",
+        "cuesheetItems": [
+          {
+            "itemInfo": [
+              "001",
+              "M01193P920PPV00",
+              "MS",
+              "000104",
+              "0423",
+              "IDOL",
+              "방탄소년단",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181206/20181206_4076695093_G11_71.jpg",
+              "",
+              "",
+              "",
+              "24",
+              "20"
+            ],
+            "members": [
+              "",
+              "",
+              "",
+              "",
+              "뷔",
+              "지민",
+              "정국",
+              "RM",
+              "제이홉",
+              "슈가",
+              "진",
+              "뷔",
+              "지민",
+              "정국",
+              "RM",
+              "제이홉",
+              "슈가",
+              "진",
+              "뷔",
+              "지민",
+              "정국",
+              "RM",
+              "제이홉",
+              "슈가"
+            ],
+            "membersImg": [
+              "",
+              "",
+              "",
+              "",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4592484665_P61_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582842594_P62_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582815388_P63_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582776473_P64_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582827027_P65_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582801623_P66_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582859527_P67_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4592484665_P61_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582842594_P62_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582815388_P63_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582776473_P64_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582827027_P65_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582801623_P66_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582859527_P67_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4592484665_P61_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582842594_P62_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582815388_P63_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582776473_P64_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582827027_P65_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20181212/20181212_4582801623_P66_71.jpg"
+            ]
+          }
+        ],
+        "omniViewInfo": [
+          {
+            "camOmni": [
+              "01",
+              "C",
+              "M01193P941PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P941PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P941PPV00PN.m3u8",
+              "M01193P941PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P941PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "02",
+              "C",
+              "M01193P942PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P942PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P942PPV00PN.m3u8",
+              "M01193P942PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P942PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "03",
+              "C",
+              "M01193P943PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P943PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P943PPV00PN.m3u8",
+              "M01193P943PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P943PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "04",
+              "C",
+              "M01193P944PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P944PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P944PPV00PN.m3u8",
+              "M01193P944PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P944PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "05",
+              "O",
+              "M01193P945PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P945PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P945PPV00PN.m3u8",
+              "M01193P945PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P945PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "06",
+              "O",
+              "M01193P946PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P946PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P946PPV00PN.m3u8",
+              "M01193P946PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P946PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "07",
+              "O",
+              "M01193P947PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P947PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P947PPV00PN.m3u8",
+              "M01193P947PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P947PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "08",
+              "O",
+              "M01193P948PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P948PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P948PPV00PN.m3u8",
+              "M01193P948PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P948PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "09",
+              "O",
+              "M01193P949PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P949PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P949PPV00PN.m3u8",
+              "M01193P949PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P949PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "10",
+              "O",
+              "M01193P950PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P950PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P950PPV00PN.m3u8",
+              "M01193P950PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P950PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "11",
+              "O",
+              "M01193P951PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P951PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P951PPV00PN.m3u8",
+              "M01193P951PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P951PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "12",
+              "O",
+              "M01193P952PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P952PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P952PPV00PN.m3u8",
+              "M01193P952PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P952PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "13",
+              "O",
+              "M01193P953PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P953PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P953PPV00PN.m3u8",
+              "M01193P953PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P953PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "14",
+              "O",
+              "M01193P954PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P954PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P954PPV00PN.m3u8",
+              "M01193P954PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P954PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "15",
+              "O",
+              "M01193P955PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P955PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P955PPV00PN.m3u8",
+              "M01193P955PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P955PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "16",
+              "O",
+              "M01193P956PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P956PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P956PPV00PN.m3u8",
+              "M01193P956PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P956PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "17",
+              "O",
+              "M01193P957PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P957PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P957PPV00PN.m3u8",
+              "M01193P957PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P957PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "18",
+              "O",
+              "M01193P958PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P958PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P958PPV00PN.m3u8",
+              "M01193P958PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P958PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "19",
+              "O",
+              "M01193P959PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P959PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P959PPV00PN.m3u8",
+              "M01193P959PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P959PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "20",
+              "O",
+              "M01193P960PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P960PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P960PPV00PN.m3u8",
+              "M01193P960PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P960PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "21",
+              "O",
+              "M01193P961PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P961PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P961PPV00PN.m3u8",
+              "M01193P961PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P961PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "22",
+              "O",
+              "M01193P962PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P962PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P962PPV00PN.m3u8",
+              "M01193P962PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P962PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "23",
+              "O",
+              "M01193P963PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P963PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P963PPV00PN.m3u8",
+              "M01193P963PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P963PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "24",
+              "O",
+              "M01193P964PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01193P964PPV00H.m3u8"
+            ],
+            "m3u8o": [
+              "M01193P964PPV00PN.m3u8",
+              "M01193P964PPV00HN.m3u8",
+              "",
+              "",
+              "",
+              "M01193P964PPV00IN.m3u8"
+            ]
+          }
+        ]
+	  }
+  }
+}

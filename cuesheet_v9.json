@@ -1,0 +1,504 @@
+// cuesheet_v9.json
+
+{
+    "notify": "test_cuesheet_v9",
+    "item": {
+      "type": "wscuesheet_v9",
+      "data": {
+        "totCnt": "1",
+        "contentsAlbumId": "M01191F511PPV00",
+        "angleSvcFlag": "Y",
+        "memberSvcFlag": "Y",
+        "channelImageUrl": "http://203.248.154.13/image/081_idol.png",
+        "mainLogoUrl": null,
+        "camLogoUrl": null,
+        "onAirStartDate": "201901061700",
+        "cuesheetItems": [
+          {
+            "itemInfo": [
+              "001",
+              "M01191F511PPV00",
+              "MS",
+              "004417",
+              "0304",
+              "BOOMERANG",
+              "WANNA ONE",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7792055293_G17_71.jpg",
+              "",
+              "",
+              "",
+              "11",
+              "11"
+            ],
+            "members": [
+              "",
+              "",
+              "",
+              "",
+              "옹성우",
+              "라이관린",
+              "이대휘",
+              "박우진",
+              "박지훈",
+              "김재환",
+              "하성운",
+              "황민현",
+              "배진영",
+              "윤지성",
+              "강다니엘",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "membersImg": [
+              "",
+              "",
+              "",
+              "",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791888129_P103_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791945120_P105_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791815231_P100_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791910695_P104_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791794862_P99_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791854757_P102_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7792014450_P109_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791980761_P107_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791997270_P108_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791963373_P106_71.jpg",
+              "http://203.248.154.13/smartux/musicshow/people_img/20190118/20190118_7791730639_P98_71.jpg",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          }
+        ],
+        "omniViewInfo": [
+          {
+            "camOmni": [
+              "01",
+              "C",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "02",
+              "C",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "03",
+              "C",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "04",
+              "C",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "05",
+              "O",
+              "M01191F512PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F512PPV00H.m3u8",
+              "M01191F512PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F512PPV00PN.m3u8",
+              "M01191F512PPV00HN.m3u8",
+              "M01191F512PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F512PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "06",
+              "O",
+              "M01191F513PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F513PPV00H.m3u8",
+              "M01191F513PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F513PPV00PN.m3u8",
+              "M01191F513PPV00HN.m3u8",
+              "M01191F513PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F513PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "07",
+              "O",
+              "M01191F514PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F514PPV00H.m3u8",
+              "M01191F514PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F514PPV00PN.m3u8",
+              "M01191F514PPV00HN.m3u8",
+              "M01191F514PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F514PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "08",
+              "O",
+              "M01191F515PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F515PPV00H.m3u8",
+              "M01191F515PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F515PPV00PN.m3u8",
+              "M01191F515PPV00HN.m3u8",
+              "M01191F515PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F515PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "09",
+              "O",
+              "M01191F516PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F516PPV00H.m3u8",
+              "M01191F516PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F516PPV00PN.m3u8",
+              "M01191F516PPV00HN.m3u8",
+              "M01191F516PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F516PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "10",
+              "O",
+              "M01191F517PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F517PPV00H.m3u8",
+              "M01191F517PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F517PPV00PN.m3u8",
+              "M01191F517PPV00HN.m3u8",
+              "M01191F517PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F517PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "11",
+              "O",
+              "M01191F518PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F518PPV00H.m3u8",
+              "M01191F518PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F518PPV00PN.m3u8",
+              "M01191F518PPV00HN.m3u8",
+              "M01191F518PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F518PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "12",
+              "O",
+              "M01191F519PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F519PPV00H.m3u8",
+              "M01191F519PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F519PPV00PN.m3u8",
+              "M01191F519PPV00HN.m3u8",
+              "M01191F519PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F519PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "13",
+              "O",
+              "M01191F520PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F520PPV00H.m3u8",
+              "M01191F520PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F520PPV00PN.m3u8",
+              "M01191F520PPV00HN.m3u8",
+              "M01191F520PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F520PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "14",
+              "O",
+              "M01191F521PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F521PPV00H.m3u8",
+              "M01191F521PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F521PPV00PN.m3u8",
+              "M01191F521PPV00HN.m3u8",
+              "M01191F521PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F521PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "15",
+              "O",
+              "M01191F522PPV00",
+              "Y"
+            ],
+            "m3u8c": [
+              "",
+              "M01191F522PPV00H.m3u8",
+              "M01191F522PPV00L.m3u8"
+            ],
+            "m3u8o": [
+              "M01191F522PPV00PN.m3u8",
+              "M01191F522PPV00HN.m3u8",
+              "M01191F522PPV00LN.m3u8",
+              "",
+              "",
+              "M01191F522PPV00IN.m3u8"
+            ]
+          },
+          {
+            "camOmni": [
+              "16",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "17",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "18",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "19",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "20",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "21",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "22",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "23",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          },
+          {
+            "camOmni": [
+              "24",
+              "O",
+              "",
+              "N"
+            ],
+            "m3u8c": [
+              
+            ],
+            "m3u8o": [
+              
+            ]
+          }
+        ]
+	  }
+  }
+}
